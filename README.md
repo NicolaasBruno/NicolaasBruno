@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I am Nicolas!
 
-<!--
-**NicolaasBruno/NicolaasBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Nicolás Bruno, an Electronics Engineer turned Software Engineer mainly focused on backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the years, I’ve worked across a variety of industries from IoT and utilities to event management, marketing, and telemedicine and contributed to both small startups and large-scale organizations. While my core strength lies in backend development using **Python** (FastAPI, Django) and **Ruby on Rails**, I’ve also worked on infrastructure and frontend features using **React**.
+
+I enjoy solving real-world problems with clean, scalable, and well-tested code, and I’m particularly motivated by deep technical challenges, thoughtful architecture, and meaningful impact.
+
+---
+
+### 💡 Areas of Interest
+- Scalable Backend Architectures (Monoliths, Microservices, Event-Driven)
+- Clean Code & TDD
+- Data Engineering & Processing
+- Artificial Intelligence & Applied Machine Learning
+- Frontend Engineering with React
+
+---
+
+---
+
+### 📢 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nicbruno)
+
+---
+
+> 📌 _Note: This GitHub account (`NicolaasBruno`) is a continuation of my previous account [`NicoB24`](https://github.com/NicoB24), where I originally published many of my repositories._

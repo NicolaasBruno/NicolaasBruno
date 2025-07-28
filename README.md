@@ -10,8 +10,8 @@ I enjoy solving real-world problems with clean, scalable, and well-tested code, 
 ---
 
 ### 💡 Areas of Interest
-- Scalable Backend Architectures (Monoliths, Microservices, Event-Driven)
-- Clean Code & TDD
+- Scalable Backend Architectures
+- Computer Science & Software Engineering
 - Data Engineering & Processing
 - Artificial Intelligence & Applied Machine Learning
 - Frontend Engineering with React

@@ -1,4 +1,4 @@
-## Hi there 👋, I am Nicolas!
+## Hi there 👋, I am Nicolás!
 
 
 I'm Nicolás Bruno, an Electronics Engineer turned Software Engineer mainly focused on backend development.

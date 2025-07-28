@@ -3,7 +3,7 @@
 
 I'm Nicolás Bruno, an Electronics Engineer turned Software Engineer mainly focused on backend development.
 
-Over the years, I’ve worked across a variety of industries from IoT and utilities to event management, marketing, and telemedicine and contributed to both small startups and large-scale organizations. While my core strength lies in backend development using **Python** (FastAPI, Django) and **Ruby on Rails**, I’ve also worked on infrastructure and frontend features using **React**.
+Over the years, I’ve worked across a variety of industries from IoT and utilities to event management, marketing, and telemedicine and contributed to both small startups and large-scale organizations. While my core strength lies in backend development using **Python** (FastAPI, Django) and **Ruby on Rails**, I’ve also worked on infrastructure, frontend features using **React**, and backend services for data processing and push notification delivery, including integration with OLAP systems.
 
 I enjoy solving real-world problems with clean, scalable, and well-tested code, and I’m particularly motivated by deep technical challenges, thoughtful architecture, and meaningful impact.
 
